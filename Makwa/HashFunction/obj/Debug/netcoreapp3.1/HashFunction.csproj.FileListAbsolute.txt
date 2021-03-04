@@ -1,0 +1,13 @@
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\bin\Debug\netcoreapp3.1\HashFunction.exe
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\bin\Debug\netcoreapp3.1\HashFunction.deps.json
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\bin\Debug\netcoreapp3.1\HashFunction.runtimeconfig.json
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\bin\Debug\netcoreapp3.1\HashFunction.runtimeconfig.dev.json
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\bin\Debug\netcoreapp3.1\HashFunction.dll
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\bin\Debug\netcoreapp3.1\HashFunction.pdb
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\obj\Debug\netcoreapp3.1\HashFunction.csprojAssemblyReference.cache
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\obj\Debug\netcoreapp3.1\HashFunction.AssemblyInfoInputs.cache
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\obj\Debug\netcoreapp3.1\HashFunction.AssemblyInfo.cs
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\obj\Debug\netcoreapp3.1\HashFunction.csproj.CoreCompileInputs.cache
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\obj\Debug\netcoreapp3.1\HashFunction.dll
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\obj\Debug\netcoreapp3.1\HashFunction.pdb
+C:\Users\michal\RiderProjects\HashFunction\HashFunction\obj\Debug\netcoreapp3.1\HashFunction.genruntimeconfig.cache
